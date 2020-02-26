@@ -8,6 +8,8 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
 
 gem 'rails-controller-testing'
 
+gem 'jquery-rails'
+
 gem 'bcrypt'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
